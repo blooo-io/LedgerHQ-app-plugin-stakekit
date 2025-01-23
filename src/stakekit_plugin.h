@@ -7,7 +7,7 @@
 
 #define PLUGIN_NAME "StakeKit"
 
-#define NUM_STAKEKIT_SELECTORS 60u
+#define NUM_STAKEKIT_SELECTORS 61u
 
 #define TICKER_LEN 30u
 
