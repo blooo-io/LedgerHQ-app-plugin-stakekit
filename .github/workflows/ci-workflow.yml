@@ -133,8 +133,9 @@ jobs:
       - name: Download built binaries
         uses: actions/download-artifact@v4
         with:
-          name: "*_binary_*"
+          pattern: "*_binary_*"
           path: tests/elfs/
+          merge-multiple: true
 
       - name: Install node
         uses: actions/setup-node@v3
