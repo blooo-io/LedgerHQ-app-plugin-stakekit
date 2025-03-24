@@ -10,6 +10,7 @@
 #define NUM_STAKEKIT_SELECTORS 62u
 
 #define TICKER_LEN 30u
+#define TESTING_1  1u
 
 #define TOKEN_SENT_FOUND     1u
 #define TOKEN_RECEIVED_FOUND 1u << 1u
