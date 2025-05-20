@@ -18,9 +18,9 @@ It will allow you, whether you are developing on macOS, Windows or Linux to quic
   - On macOS, install and launch [XQuartz](https://www.xquartz.org/) (make sure to go to XQuartz > Preferences > Security and check "Allow client connections").
   - On Windows, install and launch [VcXsrv](https://sourceforge.net/projects/vcxsrv/) (make sure to configure it to disable access control).
 - Install [VScode](https://code.visualstudio.com/download) and add [Ledger's extension](https://marketplace.visualstudio.com/items?itemName=LedgerHQ.ledger-dev-tools).
-- Open a terminal and clone `LedgerHQ-app-plugun-stakekit` with `git clone git@github.com:blooo-io/LedgerHQ-app-plugun-stakekit.git`.
+- Open a terminal and clone `LedgerHQ-app-plugin-stakekit` with `git clone git@github.com:blooo-io/LedgerHQ-app-plugin-stakekit.git`.
 - Also clone `app-ethereum` with `git clone --recurse-submodules https://github.com/LedgerHQ/app-ethereum.git`.
-- Open the `LedgerHQ-app-plugun-stakekit` folder with VSCode.
+- Open the `LedgerHQ-app-plugin-stakekit` folder with VSCode.
 - Use Ledger extension's sidebar menu or open the tasks menu with `ctrl + shift + b` (`command + shift + b` on a Mac) to conveniently execute actions :
   - Build the app for the device model of your choice with `Build`.
   - You can also load the app on a physical device, and more.
