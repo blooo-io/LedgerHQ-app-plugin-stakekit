@@ -5,7 +5,7 @@
 
 #include "eth_plugin_interface.h"
 
-#define PLUGIN_NAME "StakeKit"
+#define PLUGIN_NAME "Yield.xyz"
 
 #define NUM_STAKEKIT_SELECTORS 67u
 
