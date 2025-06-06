@@ -16,7 +16,7 @@
 # ****************************************************************************
 
 # Application name
-APPNAME = "Yield.xyz"
+APPNAME = "toto.tata"
 
 # Application version
 APPVERSION_M = 1
